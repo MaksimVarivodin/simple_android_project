@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Laba3BD</string>
+    <string name="buttonToSeeDB_text">
+        Таблиця Даних
+    </string>
+    <string name="buttonToChangeDB_text">
+        Додати дані
+    </string>
+    <string name="buttonToChangeLastNoteInDB_text">
+        Видалити дані
+    </string>
+
+    <string name="setServiceName_hint">Назва послуги</string>
+    <string name="setServiceDescription_hint">Опис послуги</string>
+    <string name="setServicePrice_hint">Ціна</string>
+    <string name="addButton_text">Додати</string>
+    <string name="deleteButton_text">Видалити</string>
+    <string name="deleteService_hint">Номер запису</string>
+</resources>
